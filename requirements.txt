@@ -5,7 +5,6 @@ email-validator
 Flask
 huggingface-hub>=0.13.2
 Jinja2
-langchain>=0.0.16
 names
 numexpr>=2.8.4
 openai>=0.27.2
